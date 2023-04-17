@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './index.css';
 import './App.css';
 import imagenRickMorty from "./img/rick-morty.png";
